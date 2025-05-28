@@ -1,0 +1,43 @@
+---
+title: "Awards"
+page-layout: full
+---
+
+<div class="container-fluid content">
+<div class="row">
+<div class="col-12">
+<img src="../images/header.jpg" class="header-image" alt="Header image">
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-12">
+<h2 class="mt-4">Honors and Awards</h2>
+
+<div class="publication">
+<h3>March 2025: Provost Award of Graduate School of Science and Technology</h3>
+<p>Graduate School of Science and Technology, University of Tsukuba</p>
+<p><a href="https://wwwnucl.ph.tsukuba.ac.jp/news/2025/03/25/2321" target="_blank">Award Information (Nuclear Theory Laboratory)</a></p>
+</div>
+
+<div class="publication">
+<h3>October 2024: Student Presentation Award of the Physical Society of Japan</h3>
+<p>The 79th Annual Meeting of the Physical Society of Japan (2024)</p>
+<p><a href="https://www.jps.or.jp/activities/awards/gakusei/2024a_student_presentation_award.php" target="_blank">Award Information (The Physical Society of Japan)</a></p>
+</div>
+
+<div class="publication">
+<h3>March 2024: Jury Prize</h3>
+<p>Frontier Nuclear Studies with Gamma-ray Spectrometer Arrays (GAMMA24)</p>
+<p><a href="https://wwwnucl.ph.tsukuba.ac.jp/news/2024/03/28/2024" target="_blank">Award Information (Nuclear Theory Laboratory)</a></p>
+</div>
+
+<div class="publication">
+<h3>Academic Year 2023: Best Presentation Award</h3>
+<p>College of Physics, School of Science and Engineering, University of Tsukuba</p>
+<p><a href="https://www.butsuri.tsukuba.ac.jp/events/awards" target="_blank">Award Information (College of Physics, University of Tsukuba)</a></p>
+</div>
+
+</div>
+</div>
+</div> 

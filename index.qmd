@@ -1,0 +1,53 @@
+---
+title: "類家 千怜"
+page-layout: full
+---
+
+<div class="container-fluid content">
+<div class="row">
+<div class="col-12">
+<img src="images/header.jpg" class="header-image" alt="ヘッダー画像">
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-4">
+<div class="profile-container">
+<img src="images/profile.jpg" class="img-fluid rounded-circle mb-3" style="max-width: 40%;" alt="プロフィール写真">
+<div class="profile-name">類家 千怜</div>
+<p class="profile-description">筑波大学原子核理論研究室で主に原子核構造を研究している大学院生です。</p>
+</div>
+</div>
+
+<div class="col-md-8">
+<div class="card mt-4 mb-4">
+<div class="card-header">
+News
+</div>
+<div class="card-body">
+<ul>
+<li>2025年5月 ホームページを開設しました。</li>
+</ul>
+</div>
+</div>
+
+<h2>研究内容</h2>
+
+<div class="publication">
+<h3>超流動原子核の集団運動</h3>
+<p>対相関によって超流動状態にある原子核の構造について、主に密度汎関数法を用いて集団運動の観点から研究しています。</p>
+</div>
+
+<div class="row mt-5">
+<div class="col-md-12 text-center">
+<a href="profile.html" class="btn btn-primary">詳しいプロフィールを見る</a>
+<a href="papers.html" class="btn btn-primary mx-2">論文を見る</a>
+<a href="presentations.html" class="btn btn-primary mx-2">発表を見る</a>
+<a href="awards.html" class="btn btn-primary mx-2">受賞歴を見る</a>
+<a href="contact.html" class="btn btn-primary">連絡先</a>
+</div>
+</div>
+
+</div>
+</div>
+</div>

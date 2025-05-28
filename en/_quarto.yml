@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: ../docs/en
+
+website:
+  title: "Chisato Ruike"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: profile.qmd
+        text: Profile
+      - href: papers.qmd
+        text: Papers
+      - href: presentations.qmd
+        text: Presentations
+      - href: awards.qmd
+        text: Awards
+      - href: contact.qmd
+        text: Contact
+    right:
+      - text: Language
+        menu:
+          - href: ../index.html
+            text: Japanese
+          - href: index.html
+            text: English
+      - icon: github
+        href: https://github.com/ruike_chisato
+      - icon: instagram
+        href: https://www.instagram.com/___toilet/
+
+format:
+  html:
+    theme:
+      - cosmo
+      - ../custom.scss
+    css: ../styles.css
+    toc: true
+    page-layout: full
+    fontsize: 1.1em
+    linestretch: 1.5
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+    include-in-header:
+      text: |
+        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css"> 

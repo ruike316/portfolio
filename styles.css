@@ -1,0 +1,169 @@
+/* css styles */
+
+/* シンプルなスタイル */
+body {
+  color: white;
+  background-color: #156064;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+}
+
+h2 {
+  border-bottom: 2px solid white;
+  padding-bottom: 0.5rem;
+  display: inline-block;
+}
+
+.card-header {
+  background-color: #052124;
+  color: white;
+  border-bottom: 2px solid white;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover, 
+.navbar-dark .navbar-nav .nav-link:focus {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.publication {
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-left: 3px solid white;
+}
+
+.publication:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.publication h3 {
+  color: white;
+}
+
+.pub-title {
+  color: white;
+  font-weight: 600;
+}
+
+.pub-details {
+  font-size: 0.9em;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.pub-authors {
+  color: white;
+  font-style: italic;
+}
+
+.pub-journal {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.contact-card {
+  background-color: rgba(255, 255, 255, 0.05);
+  color: white;
+  border-top: none;
+}
+
+.header-image {
+  width: 100%;
+  height: auto;
+  max-height: 220px; /* ヘッダー画像の高さを1.1倍に */
+  object-fit: cover;
+  border-bottom: none;
+}
+
+.container-fluid .content {
+  padding-top: 0; /* コンテンツの上部パディングを削除 */
+}
+
+/* タイトルが表示されるのを防ぐためのクラス */
+.title-hidden {
+  visibility: hidden;
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
+
+/* プロフィール画像の下に名前を表示 */
+.profile-name {
+  font-size: 1.6rem; /* 名前のサイズを大きくする */
+  font-weight: 600;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid white;
+  width: 100%; /* 白線を長くする */
+  text-align: center; /* 名前を中央に配置 */
+}
+
+.profile-description {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+  text-align: left;
+  line-height: 1.5;
+}
+
+/* プロフィール画像を中央に配置 */
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+}
+
+/* レスポンシブ調整 */
+@media (max-width: 768px) {
+  .btn {
+    display: block;
+    width: 100%;
+    margin-bottom: 0.5rem;
+  }
+}
+
+/* ソーシャルアイコン */
+.navbar-nav .nav-item .nav-link[href*="github"],
+.navbar-nav .nav-item .nav-link[href*="instagram"] {
+  color: white !important;
+}
+
+.navbar-nav .nav-item .nav-link[href*="github"]:hover,
+.navbar-nav .nav-item .nav-link[href*="instagram"]:hover {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+/* バラのアニメーション */
+.rose {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  background-image: url('images/roses.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: -1;
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.rose1 { top: 10%; left: 5%; animation: float 20s infinite ease-in-out; }
+.rose2 { top: 70%; left: 80%; animation: float 15s infinite ease-in-out; }
+.rose3 { top: 40%; left: 90%; animation: float 18s infinite ease-in-out; }
+
+@keyframes float {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-20px) rotate(5deg); }
+}
+
+
+

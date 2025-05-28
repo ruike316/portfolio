@@ -1,0 +1,147 @@
+---
+title: "Research"
+---
+
+::: {.content}
+# My Research Projects {.lei-decorated}
+
+## Study 1: Machine Learning Applications {#study1}
+
+::: {.publication}
+This research focuses on the applications of machine learning algorithms in predictive analysis. We developed a novel approach that combines traditional statistical methods with advanced neural networks.
+
+**Key Findings:**
+
+- Improved prediction accuracy by 25% compared to traditional methods
+- Reduced computational complexity by implementing efficient algorithms
+- Successfully applied the model to real-world datasets with promising results
+
+**Future Directions:**
+
+- Explore the integration of reinforcement learning techniques
+- Extend the model to handle more diverse data types
+- Collaborate with industry partners for practical applications
+:::
+
+## Study 2: Statistical Analysis {#study2}
+
+::: {.publication}
+In this study, we developed new statistical methods for analyzing complex datasets with high dimensionality and non-linear relationships.
+
+**Methodology:**
+
+- Created robust statistical frameworks for handling heterogeneous data
+- Implemented bootstrap sampling techniques to improve confidence intervals
+- Developed visualization tools for interpreting complex statistical relationships
+
+**Impact:**
+
+- Published in leading statistical journals
+- Methods adopted by research teams in various disciplines
+- Software implementation made available as open-source package
+:::
+
+## Study 3: Interdisciplinary Approach {#study3}
+
+::: {.publication}
+This project demonstrates the power of interdisciplinary research by combining techniques from computer science, statistics, and domain-specific knowledge.
+
+**Collaborative Aspects:**
+
+- Worked with experts from multiple fields to develop comprehensive solutions
+- Integrated domain knowledge into computational models
+- Created a framework for future interdisciplinary collaborations
+
+**Outcomes:**
+
+- Solved previously intractable problems by leveraging diverse perspectives
+- Established new protocols for interdisciplinary research teams
+- Received funding for expansion into additional domains
+:::
+
+## Ongoing Projects
+
+::: {.row .mt-4}
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-header}
+Project Alpha
+:::
+::: {.card-body}
+Investigating the application of deep learning methods to natural language processing tasks, with a focus on improving contextual understanding.
+
+**Status:** Data collection phase
+:::
+:::
+:::
+
+::: {.col-md-6 .mb-4}
+::: {.card .h-100}
+::: {.card-header}
+Project Beta
+:::
+::: {.card-body}
+Developing a new framework for integrating multiple data sources in healthcare analytics, with emphasis on privacy preservation.
+
+**Status:** Model development
+:::
+:::
+:::
+:::
+
+## Research Philosophy
+
+I believe in conducting research that not only advances theoretical understanding but also provides practical solutions to real-world problems. My approach combines rigorous methodology with creative problem-solving, always keeping in mind the broader impact of the work.
+
+:::
+
+<!-- Hawaiian theme elements -->
+<div class="hibiscus hibiscus1"></div>
+<div class="hibiscus hibiscus2"></div>
+<div class="hibiscus hibiscus3"></div>
+<div class="hibiscus hibiscus4"></div>
+<div class="hibiscus hibiscus5"></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Add lei decoration to all headings
+  document.querySelectorAll('h1:not(.lei-decorated), h2, h3').forEach(function(heading) {
+    heading.classList.add('lei-decorated');
+  });
+  
+  // Add subtle hibiscus animation to publication boxes
+  document.querySelectorAll('.publication').forEach(function(pub, index) {
+    const hibiscus = document.createElement('div');
+    hibiscus.className = 'publication-hibiscus';
+    hibiscus.style.position = 'absolute';
+    hibiscus.style.right = '20px';
+    hibiscus.style.top = '20px';
+    hibiscus.style.width = '25px';
+    hibiscus.style.height = '25px';
+    
+    // Alternate colors for different publications
+    const colors = ['#FF4081', '#FF9800', '#9C27B0', '#00BCD4', '#4CAF50'];
+    const color = colors[index % colors.length];
+    
+    hibiscus.style.backgroundImage = `url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="${color.replace('#', '%23')}" d="M50,20 C60,5 80,10 85,25 C90,40 75,50 75,50 C75,50 90,60 85,75 C80,90 60,95 50,80 C40,95 20,90 15,75 C10,60 25,50 25,50 C25,50 10,40 15,25 C20,10 40,5 50,20 Z"/><circle fill="%23FFEB3B" cx="50" cy="50" r="10"/></svg>')`;
+    hibiscus.style.backgroundSize = 'contain';
+    hibiscus.style.backgroundRepeat = 'no-repeat';
+    hibiscus.style.opacity = '0.7';
+    hibiscus.style.transform = `rotate(${(index * 15) % 360}deg)`;
+    hibiscus.style.transition = 'transform 0.5s ease';
+    
+    // Add hover effect
+    pub.addEventListener('mouseenter', function() {
+      hibiscus.style.transform = `rotate(${((index * 15) % 360) + 15}deg) scale(1.2)`;
+    });
+    
+    pub.addEventListener('mouseleave', function() {
+      hibiscus.style.transform = `rotate(${(index * 15) % 360}deg) scale(1)`;
+    });
+    
+    // Make publication box position relative for absolute positioning of hibiscus
+    pub.style.position = 'relative';
+    pub.appendChild(hibiscus);
+  });
+});
+</script> 

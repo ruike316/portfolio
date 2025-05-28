@@ -1,0 +1,56 @@
+---
+title: "Chisato Ruike"
+page-layout: full
+---
+
+<div class="container-fluid content">
+<div class="row">
+<div class="col-12">
+<img src="../images/header.jpg" class="header-image" alt="Header image">
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-4 text-center">
+<div class="profile-container">
+<img src="../images/profile.jpg" class="img-fluid rounded-circle mb-3" style="max-width: 40%;" alt="Profile photo">
+<div class="profile-name">Chisato Ruike</div>
+</div>
+</div>
+
+<div class="col-md-8">
+<p class="lead mt-4">
+I am a graduate student at the Nuclear Theory Laboratory, University of Tsukuba, primarily researching nuclear structure.
+</p>
+
+<div class="card mt-4 mb-4">
+<div class="card-header">
+News
+</div>
+<div class="card-body">
+<ul>
+<li>May 2025: Website launched.</li>
+</ul>
+</div>
+</div>
+
+<h2>Research</h2>
+
+<div class="publication">
+<h3>Nuclear Superfluidity Research</h3>
+<p>I study the structure of superfluid nuclei with pairing correlations, mainly using density functional theory from the perspective of collective motion.</p>
+</div>
+
+<div class="row mt-5">
+<div class="col-md-12 text-center">
+<a href="profile.html" class="btn btn-primary">View Profile</a>
+<a href="papers.html" class="btn btn-primary mx-2">Papers</a>
+<a href="presentations.html" class="btn btn-primary mx-2">Presentations</a>
+<a href="awards.html" class="btn btn-primary mx-2">Awards</a>
+<a href="contact.html" class="btn btn-primary">Contact</a>
+</div>
+</div>
+
+</div>
+</div>
+</div> 

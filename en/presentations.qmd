@@ -1,0 +1,18 @@
+---
+title: "Presentations"
+page-layout: full
+---
+
+<div class="container-fluid content">
+<div class="row">
+<div class="col-12">
+<img src="../images/header.jpg" class="header-image" alt="Header image">
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-12">
+<p class="mt-4">Coming soon.</p>
+</div>
+</div>
+</div> 

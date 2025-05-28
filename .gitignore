@@ -1,0 +1,49 @@
+# Quarto temporary files
+/.quarto/
+/_site/
+/_freeze/
+/_book/
+
+# Generated site files
+/docs/
+
+# R and RStudio specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+
+# System files
+.DS_Store
+.Thumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*~
+~$*
+*.bak
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg 

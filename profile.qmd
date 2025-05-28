@@ -1,0 +1,68 @@
+---
+title: "自己紹介"
+page-layout: full
+---
+
+<div class="container-fluid content">
+<div class="row">
+<div class="col-12">
+<img src="images/header.jpg" class="header-image" alt="ヘッダー画像">
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-4 text-center">
+<div class="profile-container">
+<img src="images/profile.jpg" class="img-fluid rounded-circle mb-3" style="max-width: 40%;" alt="プロフィール写真">
+<div class="profile-name">類家 千怜</div>
+</div>
+</div>
+
+<div class="col-md-8">
+<h2 class="mt-4">略歴</h2>
+<ul>
+<li>2023年3月 筑波大学 理工学群 物理学類 卒業</li>
+<li>2025年3月 筑波大学 理工情報生命学術院 数理物質科学研究群 物理学学位プログラム 博士前期課程 修了</li>
+</ul>
+
+<h2>研究分野</h2>
+<p>
+低エネルギー原子核物理の理論研究を行っています。
+</p>
+
+<h2>研究テーマ</h2>
+<div class="publication">
+<h3>原子核超流動の研究</h3>
+<p>対相関によって超流動状態にある原子核の構造について、主に密度汎関数法を用いて集団運動の観点から研究しています。</p>
+</div>
+
+<h2>スキル</h2>
+<div class="row">
+<div class="col-md-12">
+<div class="card">
+<div class="card-header">
+プログラミング
+</div>
+<div class="card-body">
+<ul>
+<li>C言語</li>
+<li>Fortran（学習中）</li>
+<li>Python（学習中）</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<h2>趣味</h2>
+<p>フラダンス、ダンス、絵画、花、動物、箏</p>
+
+<h2>所属学会</h2>
+<ul>
+<li>日本物理学会</li>
+<li>日本トイレ協会</li>
+</ul>
+
+</div>
+</div>
+</div> 

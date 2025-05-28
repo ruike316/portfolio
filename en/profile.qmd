@@ -1,0 +1,68 @@
+---
+title: "Profile"
+page-layout: full
+---
+
+<div class="container-fluid content">
+<div class="row">
+<div class="col-12">
+<img src="../images/header.jpg" class="header-image" alt="Header image">
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-4 text-center">
+<div class="profile-container">
+<img src="../images/profile.jpg" class="img-fluid rounded-circle mb-3" style="max-width: 40%;" alt="Profile photo">
+<div class="profile-name">Chisato Ruike</div>
+</div>
+</div>
+
+<div class="col-md-8">
+<h2 class="mt-4">Education</h2>
+<ul>
+<li>March 2023: Bachelor of Science, College of Physics, School of Science and Engineering, University of Tsukuba</li>
+<li>March 2025: Master of Science, Physics Degree Program, Graduate School of Science and Technology, University of Tsukuba</li>
+</ul>
+
+<h2>Research Field</h2>
+<p>
+I conduct theoretical research in low-energy nuclear physics.
+</p>
+
+<h2>Research Interests</h2>
+<div class="publication">
+<h3>Nuclear Superfluidity Research</h3>
+<p>I study the structure of superfluid nuclei with pairing correlations, mainly using density functional theory from the perspective of collective motion.</p>
+</div>
+
+<h2>Skills</h2>
+<div class="row">
+<div class="col-md-12">
+<div class="card">
+<div class="card-header">
+Programming
+</div>
+<div class="card-body">
+<ul>
+<li>C</li>
+<li>Fortran (learning)</li>
+<li>Python (learning)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<h2>Hobbies</h2>
+<p>Hula dancing, dancing, painting, flowers, animals, koto (Japanese zither)</p>
+
+<h2>Academic Memberships</h2>
+<ul>
+<li>The Physical Society of Japan</li>
+<li>Japan Toilet Association</li>
+</ul>
+
+</div>
+</div>
+</div> 

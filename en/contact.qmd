@@ -1,0 +1,52 @@
+---
+title: "Contact"
+page-layout: full
+---
+
+<div class="container-fluid content">
+<div class="row">
+<div class="col-12">
+<img src="../images/header.jpg" class="header-image" alt="Header image">
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-12">
+
+<div class="row mt-4">
+<div class="col-md-6">
+<div class="card contact-card">
+<div class="card-body">
+<h3><i class="bi bi-envelope"></i> Email</h3>
+<p>ruike[AT]nucl.ph.tsukuba.ac.jp</p>
+
+<h3 class="mt-4"><i class="bi bi-geo-alt"></i> Location</h3>
+<p>
+Center for Computational Sciences<br>
+University of Tsukuba<br>
+1-1-1 Tennodai, Tsukuba<br>
+Ibaraki 305-8577, Japan
+</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="card contact-card">
+<div class="card-body">
+<h3><i class="bi bi-link"></i> Related Links</h3>
+<ul class="list-unstyled">
+<li><a href="https://www.ccs.tsukuba.ac.jp/eng/" target="_blank"><i class="bi bi-laptop"></i> Center for Computational Sciences, University of Tsukuba</a></li>
+<li><a href="https://wwwnucl.ph.tsukuba.ac.jp/" target="_blank"><i class="bi bi-laptop"></i> Nuclear Theory Laboratory, University of Tsukuba</a></li>
+<li><a href="https://github.com/yourusername" target="_blank"><i class="bi bi-github"></i> GitHub</a></li>
+<li><a href="https://www.instagram.com/___toilet/" target="_blank"><i class="bi bi-instagram"></i> Instagram</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div> 

@@ -1,0 +1,43 @@
+---
+title: "受賞"
+page-layout: full
+---
+
+<div class="container-fluid content">
+<div class="row">
+<div class="col-12">
+<img src="images/header.jpg" class="header-image" alt="ヘッダー画像">
+</div>
+</div>
+
+<div class="row">
+<div class="col-md-12">
+<h2 class="mt-4">受賞歴</h2>
+
+<div class="publication">
+<h3>2025年3月 数理物質科学研究群長賞</h3>
+<p>筑波大学大学院理工情報生命学術院数理物質科学研究群</p>
+<p><a href="https://wwwnucl.ph.tsukuba.ac.jp/news/2025/03/25/2321" target="_blank">受賞情報（原子核理論研究室）</a></p>
+</div>
+
+<div class="publication">
+<h3>2024年10月 日本物理学会学生優秀発表賞</h3>
+<p>日本物理学会第79回年次大会（2024年）</p>
+<p><a href="https://www.jps.or.jp/activities/awards/gakusei/2024a_student_presentation_award.php" target="_blank">受賞情報（日本物理学会）</a></p>
+</div>
+
+<div class="publication">
+<h3>2024年3月 Jury Prize</h3>
+<p>Frontier Nuclear Studies with Gamma-ray Spectrometer Arrays (GAMMA24)</p>
+<p><a href="https://wwwnucl.ph.tsukuba.ac.jp/news/2024/03/28/2024" target="_blank">受賞情報（原子核理論研究室）</a></p>
+</div>
+
+<div class="publication">
+<h3>2023年度 ベストプレゼンテーション賞</h3>
+<p>筑波大学理工学群物理学類</p>
+<p><a href="https://www.butsuri.tsukuba.ac.jp/events/awards" target="_blank">受賞情報（筑波大学物理学類）</a></p>
+</div>
+
+</div>
+</div>
+</div> 
