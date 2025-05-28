@@ -4,8 +4,8 @@ project:
 
 website:
   title: "類家 千怜"
-  site-url: https://ruike_chisato.github.io/portfolio/
-  repo-url: https://github.com/ruike_chisato/portfolio
+  site-url: https://ruike316.github.io/portfolio/
+  repo-url: https://github.com/ruike316/portfolio
   favicon: images/favicon.svg
   navbar:
     background: primary
@@ -31,7 +31,7 @@ website:
           - href: en/index.qmd
             text: English
       - icon: github
-        href: https://github.com/ruike_chisato
+        href: https://github.com/ruike316
       - icon: instagram
         href: https://www.instagram.com/___toilet/
 
