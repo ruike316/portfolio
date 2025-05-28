@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "profile.html",
+    "href": "profile.html",
+    "title": "自己紹介",
+    "section": "",
+    "text": "類家 千怜\n\n\n\n\n\n略歴\n\n\n\n2023年3月 筑波大学 理工学群 物理学類 卒業\n\n\n2025年3月 筑波大学 理工情報生命学術院 数理物質科学研究群 物理学学位プログラム 博士前期課程 修了\n\n\n\n研究分野\n\n\n低エネルギー原子核物理の理論研究を行っています。\n\n\n研究テーマ\n\n\n\n原子核超流動の研究\n\n\n対相関によって超流動状態にある原子核の構造について、主に密度汎関数法を用いて集団運動の観点から研究しています。\n\n\n\nスキル\n\n\n\n\n\nプログラミング\n\n\n\n\nC言語\n\n\nFortran（学習中）\n\n\nPython（学習中）\n\n\n\n\n\n\n\n趣味\n\n\nフラダンス、ダンス、絵画、花、動物、箏\n\n\n所属学会\n\n\n\n日本物理学会\n\n\n日本トイレ協会"
+  },
+  {
+    "objectID": "en/profile.html",
+    "href": "en/profile.html",
+    "title": "Profile",
+    "section": "",
+    "text": "Chisato Ruike\n\n\n\n\n\nEducation\n\n\n\nMarch 2023: Bachelor of Science, College of Physics, School of Science and Engineering, University of Tsukuba\n\n\nMarch 2025: Master of Science, Physics Degree Program, Graduate School of Science and Technology, University of Tsukuba\n\n\n\nResearch Field\n\n\nI conduct theoretical research in low-energy nuclear physics.\n\n\nResearch Interests\n\n\n\nNuclear Superfluidity Research\n\n\nI study the structure of superfluid nuclei with pairing correlations, mainly using density functional theory from the perspective of collective motion.\n\n\n\nSkills\n\n\n\n\n\nProgramming\n\n\n\n\nC\n\n\nFortran (learning)\n\n\nPython (learning)\n\n\n\n\n\n\n\nHobbies\n\n\nHula dancing, dancing, painting, flowers, animals, koto (Japanese zither)\n\n\nAcademic Memberships\n\n\n\nThe Physical Society of Japan\n\n\nJapan Toilet Association"
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Chisato Ruike",
+    "section": "",
+    "text": "Chisato Ruike\n\n\n\n\n\nI am a graduate student at the Nuclear Theory Laboratory, University of Tsukuba, primarily researching nuclear structure.\n\n\n\nNews\n\n\n\n\nMay 2025: Website launched.\n\n\n\n\n\nResearch\n\n\n\nNuclear Superfluidity Research\n\n\nI study the structure of superfluid nuclei with pairing correlations, mainly using density functional theory from the perspective of collective motion.\n\n\n\n\nView Profile Papers Presentations Awards Contact"
+  },
+  {
+    "objectID": "en/papers.html",
+    "href": "en/papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "自己紹介",
+    "section": "",
+    "text": "私は東京大学大学院情報学研究科の博士課程に在籍している山田太郎です。機械学習と自然言語処理の交差領域における研究に従事しており、特にテキスト生成モデルの解釈可能性と制御性の向上に焦点を当てています。"
+  },
+  {
+    "objectID": "about.html#プロフィール",
+    "href": "about.html#プロフィール",
+    "title": "自己紹介",
+    "section": "",
+    "text": "私は東京大学大学院情報学研究科の博士課程に在籍している山田太郎です。機械学習と自然言語処理の交差領域における研究に従事しており、特にテキスト生成モデルの解釈可能性と制御性の向上に焦点を当てています。"
+  },
+  {
+    "objectID": "about.html#学歴",
+    "href": "about.html#学歴",
+    "title": "自己紹介",
+    "section": "学歴",
+    "text": "学歴\n\n2022年4月 - 現在\n東京大学大学院 情報学研究科 博士課程\n研究テーマ: 「深層学習を用いたテキスト生成モデルの制御と解釈に関する研究」\n2020年4月 - 2022年3月\n東京大学大学院 情報学研究科 修士課程\n修士論文: 「Transformer-based models for controlled text generation」\n指導教員: 佐藤教授\n2016年4月 - 2020年3月\n東京大学 工学部 情報工学科\n卒業論文: 「自然言語処理における注意機構の分析」\n指導教員: 佐藤教授"
+  },
+  {
+    "objectID": "about.html#研究関心領域",
+    "href": "about.html#研究関心領域",
+    "title": "自己紹介",
+    "section": "研究関心領域",
+    "text": "研究関心領域\n\n自然言語処理（NLP）\n機械学習、特に深層学習\n生成モデルの解釈可能性\nテキスト生成の制御技術\nヒューマンインタラクション"
+  },
+  {
+    "objectID": "about.html#スキル",
+    "href": "about.html#スキル",
+    "title": "自己紹介",
+    "section": "スキル",
+    "text": "スキル\n\nプログラミング言語\n\nPython (高度)\nR (中級)\nJavaScript (初級)\n\n\n\nフレームワーク・ツール\n\nPyTorch, TensorFlow\nHugging Face Transformers\nScikit-learn, Pandas\nGit, Docker\nLaTeX\n\n\n\n言語\n\n日本語 (ネイティブ)\n英語 (流暢 - TOEIC 900点)"
+  },
+  {
+    "objectID": "about.html#趣味興味",
+    "href": "about.html#趣味興味",
+    "title": "自己紹介",
+    "section": "趣味・興味",
+    "text": "趣味・興味\n研究以外では、読書や旅行を楽しんでいます。また、機械学習や自然言語処理のコミュニティに積極的に参加し、最新の技術動向をフォローしています。オープンソースプロジェクトへの貢献にも興味があります。"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "受賞",
+    "section": "",
+    "text": "受賞歴\n\n\n\n2025年3月 数理物質科学研究群長賞\n\n\n筑波大学大学院理工情報生命学術院数理物質科学研究群\n\n\n受賞情報（原子核理論研究室）\n\n\n\n\n2024年10月 日本物理学会学生優秀発表賞\n\n\n日本物理学会第79回年次大会（2024年）\n\n\n受賞情報（日本物理学会）\n\n\n\n\n2024年3月 Jury Prize\n\n\nFrontier Nuclear Studies with Gamma-ray Spectrometer Arrays (GAMMA24)\n\n\n受賞情報（原子核理論研究室）\n\n\n\n\n2023年度 ベストプレゼンテーション賞\n\n\n筑波大学理工学群物理学類\n\n\n受賞情報（筑波大学物理学類）"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "論文",
+    "section": "",
+    "text": "準備中です。"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This research focuses on the applications of machine learning algorithms in predictive analysis. We developed a novel approach that combines traditional statistical methods with advanced neural networks.\nKey Findings:\n\nImproved prediction accuracy by 25% compared to traditional methods\nReduced computational complexity by implementing efficient algorithms\nSuccessfully applied the model to real-world datasets with promising results\n\nFuture Directions:\n\nExplore the integration of reinforcement learning techniques\nExtend the model to handle more diverse data types\nCollaborate with industry partners for practical applications\n\n\n\n\n\n\nIn this study, we developed new statistical methods for analyzing complex datasets with high dimensionality and non-linear relationships.\nMethodology:\n\nCreated robust statistical frameworks for handling heterogeneous data\nImplemented bootstrap sampling techniques to improve confidence intervals\nDeveloped visualization tools for interpreting complex statistical relationships\n\nImpact:\n\nPublished in leading statistical journals\nMethods adopted by research teams in various disciplines\nSoftware implementation made available as open-source package\n\n\n\n\n\n\nThis project demonstrates the power of interdisciplinary research by combining techniques from computer science, statistics, and domain-specific knowledge.\nCollaborative Aspects:\n\nWorked with experts from multiple fields to develop comprehensive solutions\nIntegrated domain knowledge into computational models\nCreated a framework for future interdisciplinary collaborations\n\nOutcomes:\n\nSolved previously intractable problems by leveraging diverse perspectives\nEstablished new protocols for interdisciplinary research teams\nReceived funding for expansion into additional domains\n\n\n\n\n\n\n\n\n\nProject Alpha\n\n\nInvestigating the application of deep learning methods to natural language processing tasks, with a focus on improving contextual understanding.\nStatus: Data collection phase\n\n\n\n\n\n\nProject Beta\n\n\nDeveloping a new framework for integrating multiple data sources in healthcare analytics, with emphasis on privacy preservation.\nStatus: Model development\n\n\n\n\n\n\n\nI believe in conducting research that not only advances theoretical understanding but also provides practical solutions to real-world problems. My approach combines rigorous methodology with creative problem-solving, always keeping in mind the broader impact of the work."
+  },
+  {
+    "objectID": "research.html#study1",
+    "href": "research.html#study1",
+    "title": "Research",
+    "section": "",
+    "text": "This research focuses on the applications of machine learning algorithms in predictive analysis. We developed a novel approach that combines traditional statistical methods with advanced neural networks.\nKey Findings:\n\nImproved prediction accuracy by 25% compared to traditional methods\nReduced computational complexity by implementing efficient algorithms\nSuccessfully applied the model to real-world datasets with promising results\n\nFuture Directions:\n\nExplore the integration of reinforcement learning techniques\nExtend the model to handle more diverse data types\nCollaborate with industry partners for practical applications"
+  },
+  {
+    "objectID": "research.html#study2",
+    "href": "research.html#study2",
+    "title": "Research",
+    "section": "",
+    "text": "In this study, we developed new statistical methods for analyzing complex datasets with high dimensionality and non-linear relationships.\nMethodology:\n\nCreated robust statistical frameworks for handling heterogeneous data\nImplemented bootstrap sampling techniques to improve confidence intervals\nDeveloped visualization tools for interpreting complex statistical relationships\n\nImpact:\n\nPublished in leading statistical journals\nMethods adopted by research teams in various disciplines\nSoftware implementation made available as open-source package"
+  },
+  {
+    "objectID": "research.html#study3",
+    "href": "research.html#study3",
+    "title": "Research",
+    "section": "",
+    "text": "This project demonstrates the power of interdisciplinary research by combining techniques from computer science, statistics, and domain-specific knowledge.\nCollaborative Aspects:\n\nWorked with experts from multiple fields to develop comprehensive solutions\nIntegrated domain knowledge into computational models\nCreated a framework for future interdisciplinary collaborations\n\nOutcomes:\n\nSolved previously intractable problems by leveraging diverse perspectives\nEstablished new protocols for interdisciplinary research teams\nReceived funding for expansion into additional domains"
+  },
+  {
+    "objectID": "research.html#ongoing-projects",
+    "href": "research.html#ongoing-projects",
+    "title": "Research",
+    "section": "",
+    "text": "Project Alpha\n\n\nInvestigating the application of deep learning methods to natural language processing tasks, with a focus on improving contextual understanding.\nStatus: Data collection phase\n\n\n\n\n\n\nProject Beta\n\n\nDeveloping a new framework for integrating multiple data sources in healthcare analytics, with emphasis on privacy preservation.\nStatus: Model development"
+  },
+  {
+    "objectID": "research.html#research-philosophy",
+    "href": "research.html#research-philosophy",
+    "title": "Research",
+    "section": "",
+    "text": "I believe in conducting research that not only advances theoretical understanding but also provides practical solutions to real-world problems. My approach combines rigorous methodology with creative problem-solving, always keeping in mind the broader impact of the work."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "連絡先",
+    "section": "",
+    "text": "メール\n\n\nruike[AT]nucl.ph.tsukuba.ac.jp\n\n\n 所在地\n\n\n〒305-8577 茨城県つくば市天王台1-1-1 筑波大学 計算科学研究センター\n\n\n\n\n\n\n\n\n 関連リンク\n\n\n\n 筑波大学 計算科学研究センター\n\n\n 筑波大学 原子核理論研究室\n\n\n GitHub\n\n\n Instagram"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "ニュース・活動報告",
+    "section": "",
+    "text": "2023年9月15日〜17日に開催された国際会議ICML（International Conference on Machine Learning）にて研究発表を行いました。「Improving Controllability in Text Generation through Attention Mechanism Refinement」というタイトルで、テキスト生成モデルの制御性向上に関する研究成果を発表しました。多くの研究者との議論を通じて、有益なフィードバックを得ることができました。\n\n\n\n論文「注意機構の改良によるテキスト生成の制御性向上に関する研究」が情報処理学会論文誌に採択されました。本研究は、Transformerモデルの注意機構を改良することで、テキスト生成の制御性を向上させる手法を提案しています。\n\n\n\n東京大学情報学環・学際情報学府の研究発表会にて、「言語モデルにおける注意機構の分析と改良」というテーマでポスター発表を行いました。学内の研究者からフィードバックをいただき、今後の研究方針に活かしていきます。\n\n\n\n日本学術振興会特別研究員（DC1）に採用されました。「深層学習を用いたテキスト生成モデルの制御と解釈に関する研究」というテーマで、今後3年間研究を進めていきます。\n\n\n\n第36回人工知能学会全国大会にて発表した「対話システムにおける一貫性評価指標の提案」が優秀発表賞を受賞しました。\n\n\n\nアメリカで開催された自然言語処理の国際会議EMNLP（Conference on Empirical Methods in Natural Language Processing）にて、「A Framework for Consistent Response Generation in Long-term Dialogues」というタイトルで研究発表を行いました。\n\n\n\n東京大学大学院情報学研究科の博士課程に進学しました。佐藤研究室に所属し、「深層学習を用いたテキスト生成モデルの制御と解釈に関する研究」をテーマに研究を進めていきます。"
+  },
+  {
+    "objectID": "news.html#最新のニュース",
+    "href": "news.html#最新のニュース",
+    "title": "ニュース・活動報告",
+    "section": "",
+    "text": "2023年9月15日〜17日に開催された国際会議ICML（International Conference on Machine Learning）にて研究発表を行いました。「Improving Controllability in Text Generation through Attention Mechanism Refinement」というタイトルで、テキスト生成モデルの制御性向上に関する研究成果を発表しました。多くの研究者との議論を通じて、有益なフィードバックを得ることができました。\n\n\n\n論文「注意機構の改良によるテキスト生成の制御性向上に関する研究」が情報処理学会論文誌に採択されました。本研究は、Transformerモデルの注意機構を改良することで、テキスト生成の制御性を向上させる手法を提案しています。\n\n\n\n東京大学情報学環・学際情報学府の研究発表会にて、「言語モデルにおける注意機構の分析と改良」というテーマでポスター発表を行いました。学内の研究者からフィードバックをいただき、今後の研究方針に活かしていきます。\n\n\n\n日本学術振興会特別研究員（DC1）に採用されました。「深層学習を用いたテキスト生成モデルの制御と解釈に関する研究」というテーマで、今後3年間研究を進めていきます。\n\n\n\n第36回人工知能学会全国大会にて発表した「対話システムにおける一貫性評価指標の提案」が優秀発表賞を受賞しました。\n\n\n\nアメリカで開催された自然言語処理の国際会議EMNLP（Conference on Empirical Methods in Natural Language Processing）にて、「A Framework for Consistent Response Generation in Long-term Dialogues」というタイトルで研究発表を行いました。\n\n\n\n東京大学大学院情報学研究科の博士課程に進学しました。佐藤研究室に所属し、「深層学習を用いたテキスト生成モデルの制御と解釈に関する研究」をテーマに研究を進めていきます。"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "類家 千怜",
+    "section": "",
+    "text": "類家 千怜\n\n\n筑波大学原子核理論研究室で主に原子核構造を研究している大学院生です。\n\n\n\n\n\n\nNews\n\n\n\n\n2025年5月 ホームページを開設しました。\n\n\n\n\n\n研究内容\n\n\n\n超流動原子核の集団運動\n\n\n対相関によって超流動状態にある原子核の構造について、主に密度汎関数法を用いて集団運動の観点から研究しています。\n\n\n\n\n詳しいプロフィールを見る 論文を見る 発表を見る 受賞歴を見る 連絡先"
+  },
+  {
+    "objectID": "en/contact.html",
+    "href": "en/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email\n\n\nruike[AT]nucl.ph.tsukuba.ac.jp\n\n\n Location\n\n\nCenter for Computational Sciences University of Tsukuba 1-1-1 Tennodai, Tsukuba Ibaraki 305-8577, Japan\n\n\n\n\n\n\n\n\n Related Links\n\n\n\n Center for Computational Sciences, University of Tsukuba\n\n\n Nuclear Theory Laboratory, University of Tsukuba\n\n\n GitHub\n\n\n Instagram"
+  },
+  {
+    "objectID": "en/awards.html",
+    "href": "en/awards.html",
+    "title": "Awards",
+    "section": "",
+    "text": "Honors and Awards\n\n\n\nMarch 2025: Provost Award of Graduate School of Science and Technology\n\n\nGraduate School of Science and Technology, University of Tsukuba\n\n\nAward Information (Nuclear Theory Laboratory)\n\n\n\n\nOctober 2024: Student Presentation Award of the Physical Society of Japan\n\n\nThe 79th Annual Meeting of the Physical Society of Japan (2024)\n\n\nAward Information (The Physical Society of Japan)\n\n\n\n\nMarch 2024: Jury Prize\n\n\nFrontier Nuclear Studies with Gamma-ray Spectrometer Arrays (GAMMA24)\n\n\nAward Information (Nuclear Theory Laboratory)\n\n\n\n\nAcademic Year 2023: Best Presentation Award\n\n\nCollege of Physics, School of Science and Engineering, University of Tsukuba\n\n\nAward Information (College of Physics, University of Tsukuba)"
+  },
+  {
+    "objectID": "en/presentations.html",
+    "href": "en/presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "発表",
+    "section": "",
+    "text": "準備中です。"
+  }
+]

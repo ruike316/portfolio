@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" rx="4" fill="#156064"/>
+  
+  <!-- Stylized "R" for Ruike -->
+  <path d="M8,8 L8,24 M8,8 L20,8 Q24,8 24,12 T20,16 L8,16 M20,16 L24,24" 
+        stroke="#f8d7da" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg> 

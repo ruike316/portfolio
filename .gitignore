@@ -4,9 +4,6 @@
 /_freeze/
 /_book/
 
-# Generated site files
-/docs/
-
 # R and RStudio specific
 .Rproj.user
 .Rhistory
