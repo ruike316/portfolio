@@ -39,7 +39,7 @@ Ibaraki 305-8577, Japan
 <li><a href="https://www.ccs.tsukuba.ac.jp/eng/" target="_blank"><i class="bi bi-laptop"></i> Center for Computational Sciences, University of Tsukuba</a></li>
 <li><a href="https://wwwnucl.ph.tsukuba.ac.jp/" target="_blank"><i class="bi bi-laptop"></i> Nuclear Theory Laboratory, University of Tsukuba</a></li>
 <li><a href="https://github.com/yourusername" target="_blank"><i class="bi bi-github"></i> GitHub</a></li>
-<li><a href="https://www.instagram.com/___toilet/" target="_blank"><i class="bi bi-instagram"></i> Instagram</a></li>
+<!-- <li><a href="https://www.instagram.com/___toilet/" target="_blank"><i class="bi bi-instagram"></i> Instagram</a></li> -->
 </ul>
 </div>
 </div>

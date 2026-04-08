@@ -29,8 +29,8 @@ website:
             text: English
       - icon: github
         href: https://github.com/ruike_chisato
-      - icon: instagram
-        href: https://www.instagram.com/___toilet/
+      # - icon: instagram
+      #   href: https://www.instagram.com/___toilet/
 
 format:
   html:

@@ -32,8 +32,8 @@ website:
             text: English
       - icon: github
         href: https://github.com/ruike316
-      - icon: instagram
-        href: https://www.instagram.com/___toilet/
+      # - icon: instagram
+      #   href: https://www.instagram.com/___toilet/
 
 format:
   html:
