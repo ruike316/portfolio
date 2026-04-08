@@ -60,7 +60,6 @@ page-layout: full
 <h2>所属学会</h2>
 <ul>
 <li>日本物理学会</li>
-<li>日本トイレ協会</li>
 </ul>
 
 </div>

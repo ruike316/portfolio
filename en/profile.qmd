@@ -60,7 +60,6 @@ Programming
 <h2>Academic Memberships</h2>
 <ul>
 <li>The Physical Society of Japan</li>
-<li>Japan Toilet Association</li>
 </ul>
 
 </div>
