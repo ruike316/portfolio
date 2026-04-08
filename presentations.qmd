@@ -22,7 +22,7 @@ page-layout: full
 </div>
 
 <div class="publication">
-<h3>Construction of 1S0 pair collective Hamiltonian using the constrained BCS + local QRPA method</h3>
+<h3>The pairing Collective Hamiltonian to Analyze the Pairing Phase Transition Using the BCS+QRPA Calculation</h3>
 <p class="pub-authors">C. Ruike, N. Hinohara</p>
 <p class="pub-journal">Sado2025, Senkakusou, Sado, 2025年10月3–5日</p>
 </div>
