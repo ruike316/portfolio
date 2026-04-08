@@ -12,7 +12,109 @@ page-layout: full
 
 <div class="row">
 <div class="col-md-12">
-<p class="mt-4">準備中です。</p>
+
+<h2 class="mt-4">国際会議・研究会</h2>
+
+<div class="publication">
+<h3>Analyzing the dependence on the order parameter of the pairing collective mass using the constrained BCS + local QRPA method</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">NuSRAP 2025 workshop, RCNP, Osaka University, 2025年11月17–19日</p>
+</div>
+
+<div class="publication">
+<h3>The pair collective mode caused by the neutron pairing interaction in stable nuclei</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">Single-particle and collective motions from nuclear many-body correlation (PCM2025), University of Aizu, 2025年3月4–7日</p>
+</div>
+
+<div class="publication">
+<h3>A qualitative discussion of the pairing rotational moment of inertia</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">RCNP-CENuM-OMEG Symposium on Nuclear Structure, Reaction, and Astrophysics (NuSRAP2024), RCNP, Osaka University, 2024年12月18–20日</p>
+</div>
+
+<div class="publication">
+<h3>The rotational mode caused by the pair condensation in nuclei</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">22nd International Conference on Recent Progress in Many-Body Theories (RPMBT22), University of Tsukuba, 2024年9月23–27日</p>
+</div>
+
+<div class="publication">
+<h3>Neutron pairing rotational moments of inertia in Ni, Sn, and Pb isotopes（ポスター）</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">The workshop on frontier nuclear studies with gamma-ray spectrometer arrays (GAMMA24), Osaka University, 2024年3月26–28日</p>
+<p><span class="badge bg-warning text-dark">Jury Prize 受賞</span></p>
+</div>
+
+<div class="publication">
+<h3>Collective-subspace requantization for sub-barrier fusion reactions: Inertial functions for collective motions</h3>
+<p class="pub-authors">C. Ruike, K. Wen, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">8th International Conference on Heavy-Ion Collisions at Near-barrier Energies (FUSION23), Shizuoka, 2023年11月19–24日</p>
+</div>
+
+<div class="publication">
+<h3>Neutron pairing rotation within the BCS model（招待講演）</h3>
+<p class="pub-authors">C. Ruike</p>
+<p class="pub-journal">RCNP Workshop on Microscopic approach from pair correlation to pair condensation, RCNP, Osaka University, 2023年9月4–6日</p>
+</div>
+
+<div class="publication">
+<h3>Moments of inertia of pairing rotation within the BCS model for Sn and Ni isotopes</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara</p>
+<p class="pub-journal">A3F-CNS Summer School 2023, RIKEN, Wako, 2023年8月4–10日</p>
+</div>
+
+<h2>国内学会・研究会</h2>
+
+<div class="publication">
+<h3>CBCS + LQRPA計算による原子核内対相関に関する相転移の臨界点描像の解析</h3>
+<p class="pub-authors">類家千怜, 日野原伸生, 中務孝</p>
+<p class="pub-journal">日本物理学会2026年春季大会, 2026年3月23–26日</p>
+</div>
+
+<div class="publication">
+<h3>1S0 中性子超流動に起因する対集団慣性質量の対集団変数依存性の解析</h3>
+<p class="pub-authors">類家千怜, 日野原伸生, 中務孝</p>
+<p class="pub-journal">日本物理学会第80回年次大会, 2025年9月16–19日</p>
+</div>
+
+<div class="publication">
+<h3>Constraint BCS+QRPA計算を用いた中性子1S0超流動に起因する対集団慣性質量の集団変数依存性</h3>
+<p class="pub-authors">類家千怜, 日野原伸生, 中務孝</p>
+<p class="pub-journal">宇核連研究会2025, KEKつくばキャンパス, 2025年3月24–26日</p>
+</div>
+
+<div class="publication">
+<h3>中性子対集団運動における慣性質量の集団変数依存性</h3>
+<p class="pub-authors">類家千怜, 日野原伸生, 中務孝</p>
+<p class="pub-journal">日本物理学会2025年春季大会, 2025年3月18–21日</p>
+</div>
+
+<div class="publication">
+<h3>中性子超流動に起因する対回転モードに関する研究</h3>
+<p class="pub-authors">類家千怜, 日野原伸生, 中務孝</p>
+<p class="pub-journal">日本物理学会第79回年次大会, 2024年9月16–19日</p>
+<p><span class="badge bg-warning text-dark">学生優秀発表賞 受賞</span></p>
+</div>
+
+<div class="publication">
+<h3>原子核超流動に起因する対回転慣性モーメントの解析（ポスター）</h3>
+<p class="pub-authors">類家千怜</p>
+<p class="pub-journal">計算物理春の学校2024, 沖縄県市町村自治会館, 2024年3月11–15日</p>
+</div>
+
+<div class="publication">
+<h3>対回転慣性モーメントの分析を通した中性子対相関に関する考察</h3>
+<p class="pub-authors">類家千怜, 日野原伸生</p>
+<p class="pub-journal">日本物理学会2024年春季大会, オンライン, 2024年3月18–21日</p>
+</div>
+
+<div class="publication">
+<h3>BCS理論を用いた原子核対回転に伴う慣性モーメントに関する研究</h3>
+<p class="pub-authors">類家千怜</p>
+<p class="pub-journal">第69回原子核三者若手夏の学校, 国立オリンピック記念青少年総合センター, 2023年8月17–21日</p>
+</div>
+
 </div>
 </div>
 </div> 
