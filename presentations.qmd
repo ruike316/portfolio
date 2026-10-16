@@ -16,6 +16,18 @@ page-layout: full
 <h2 class="mt-4">国際会議・研究会（口頭発表）</h2>
 
 <div class="publication">
+<h3>Analysis of pair transfer reactions from the perspective of pairing collective dynamics</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara</p>
+<p class="pub-journal">8th International Workshop on Compound-Nuclear Reactions and Related Topics (CNR*26), ACROS Fukuoka, Fukuoka, 2026年10月5–9日</p>
+</div>
+
+<div class="publication">
+<h3>Large-amplitude pairing collective dynamics associated with spontaneously broken global U(1) symmetry</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">32nd Nuclear Physics Workshop, Maria Curie-Skłodowska University, Lublin, Poland, 2026年9月28–30日</p>
+</div>
+
+<div class="publication">
 <h3>Analyzing the dependence on the order parameter of the pairing collective mass using the constrained BCS + local QRPA method</h3>
 <p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
 <p class="pub-journal">NuSRAP 2025, Soongsil University, Seoul, Korea, 2025年11月17–19日</p>
@@ -46,6 +58,18 @@ page-layout: full
 </div>
 
 <h2>国際会議・研究会（ポスター発表）</h2>
+
+<div class="publication">
+<h3>Unified description of pairing collective dynamics around 208Pb</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">Symposium on Nuclear Structure, Reaction, and Astrophysics (NuSRAP2026), Center for Computational Sciences, University of Tsukuba, Tsukuba, 2026年7月13–15日</p>
+</div>
+
+<div class="publication">
+<h3>The properties of the collective mass in the pairing collective mode</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">5th Conference on Advances in Radioactive Isotope Science (ARIS2026), Palthe Iizaka, Fukushima, 2026年6月1–7日</p>
+</div>
 
 <div class="publication">
 <h3>Dependence of pair collective mass on pairing collective variables using BCS+QRPA calculations</h3>
@@ -79,6 +103,12 @@ page-layout: full
 </div>
 
 <h2>国内学会・研究会（口頭発表）</h2>
+
+<div class="publication">
+<h3>魔法核近辺におけるペアリング大振幅集団運動の微視的記述</h3>
+<p class="pub-authors">類家千怜, 日野原伸生, 中務孝</p>
+<p class="pub-journal">日本物理学会第81回年次大会, 東京大学駒場キャンパス, 東京, 2026年9月14–17日</p>
+</div>
 
 <div class="publication">
 <h3>CBCS + LQRPA計算による原子核内対相関に関する相転移の臨界点描像の解析</h3>
