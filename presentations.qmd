@@ -194,7 +194,7 @@ page-layout: full
 <div class="publication">
 <h3>ペアリング集団運動による原子核超流動相転移の解析</h3>
 <p class="pub-authors">類家千怜, 日野原伸生</p>
-<p class="pub-journal">計算物理春の学校2025, 沖縄自治会館, 那覇, 2026年3月9–13日</p>
+<p class="pub-journal">計算物理春の学校2026, 沖縄自治会館, 那覇, 2026年3月9–13日</p>
 </div>
 
 <div class="publication">

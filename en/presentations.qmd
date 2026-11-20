@@ -194,7 +194,7 @@ page-layout: full
 <div class="publication">
 <h3>Analysis of the nuclear superfluid phase transition through pairing collective motion</h3>
 <p class="pub-authors">C. Ruike, N. Hinohara</p>
-<p class="pub-journal">Spring School on Computational Physics 2025, Okinawa Jichikaikan, Naha, Mar. 9–13, 2026</p>
+<p class="pub-journal">Spring School on Computational Physics 2026, Okinawa Jichikaikan, Naha, Mar. 9–13, 2026</p>
 </div>
 
 <div class="publication">
