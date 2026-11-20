@@ -16,6 +16,18 @@ page-layout: full
 <h2 class="mt-4">国際会議・研究会（口頭発表）</h2>
 
 <div class="publication">
+<h3>Microscopic description for pairing collective dynamics</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">UTFORSK School 2026, Onna Village Community Center / OIST, Okinawa, 2026年11月2–13日</p>
+</div>
+
+<div class="publication">
+<h3>Microscopic description of large-amplitude pairing collective motion toward analysis of properties of magic nuclei</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">The 9th Workshop on Many-Body Correlations in Microscopic Nuclear Model (Kochi2026), Kochi-shokokaikan, Kochi, 2026年10月29–31日</p>
+</div>
+
+<div class="publication">
 <h3>Analysis of pair transfer reactions from the perspective of pairing collective dynamics</h3>
 <p class="pub-authors">C. Ruike, N. Hinohara</p>
 <p class="pub-journal">8th International Workshop on Compound-Nuclear Reactions and Related Topics (CNR*26), ACROS Fukuoka, Fukuoka, 2026年10月5–9日</p>
