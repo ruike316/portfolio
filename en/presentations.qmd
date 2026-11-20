@@ -12,7 +12,197 @@ page-layout: full
 
 <div class="row">
 <div class="col-md-12">
-<p class="mt-4">Coming soon.</p>
+
+<h2 class="mt-4">International Conferences and Workshops (Oral)</h2>
+
+<div class="publication">
+<h3>Microscopic description for pairing collective dynamics</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">UTFORSK School 2026, Onna Village Community Center / OIST, Okinawa, Nov. 2–13, 2026</p>
+</div>
+
+<div class="publication">
+<h3>Microscopic description of large-amplitude pairing collective motion toward analysis of properties of magic nuclei</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">The 9th Workshop on Many-Body Correlations in Microscopic Nuclear Model (Kochi2026), Kochi-shokokaikan, Kochi, Oct. 29–31, 2026</p>
+</div>
+
+<div class="publication">
+<h3>Analysis of pair transfer reactions from the perspective of pairing collective dynamics</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara</p>
+<p class="pub-journal">8th International Workshop on Compound-Nuclear Reactions and Related Topics (CNR*26), ACROS Fukuoka, Fukuoka, Oct. 5–9, 2026</p>
+</div>
+
+<div class="publication">
+<h3>Large-amplitude pairing collective dynamics associated with spontaneously broken global U(1) symmetry</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">32nd Nuclear Physics Workshop, Maria Curie-Skłodowska University, Lublin, Poland, Sep. 28–30, 2026</p>
+</div>
+
+<div class="publication">
+<h3>Analyzing the dependence on the order parameter of the pairing collective mass using the constrained BCS + local QRPA method</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">NuSRAP 2025, Soongsil University, Seoul, Korea, Nov. 17–19, 2025</p>
+</div>
+
+<div class="publication">
+<h3>The pairing Collective Hamiltonian to Analyze the Pairing Phase Transition Using the BCS+QRPA Calculation</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara</p>
+<p class="pub-journal">Sado2025, Senkakusou, Sado, Oct. 3–5, 2025</p>
+</div>
+
+<div class="publication">
+<h3>Construction of 1S0 pair collective Hamiltonian using the constrained BCS + local QRPA method</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara</p>
+<p class="pub-journal">TOPTIER CNS Summer School 2025, RIKEN, Wako, Aug. 22–28, 2025</p>
+</div>
+
+<div class="publication">
+<h3>A qualitative discussion of the pairing rotational moment of inertia</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">RCNP-CENuM-OMEG Symposium on Nuclear Structure, Reaction, and Astrophysics (NuSRAP2024), RCNP, Osaka, Dec. 18–20, 2024</p>
+</div>
+
+<div class="publication">
+<h3>Moments of inertia of pairing rotation within the BCS model for Sn and Ni isotopes</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara</p>
+<p class="pub-journal">A3F-CNS Summer School 2023, RIKEN, Wako, Aug. 4–10, 2023</p>
+</div>
+
+<h2>International Conferences and Workshops (Poster)</h2>
+
+<div class="publication">
+<h3>Unified description of pairing collective dynamics around 208Pb</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">Symposium on Nuclear Structure, Reaction, and Astrophysics (NuSRAP2026), Center for Computational Sciences, University of Tsukuba, Tsukuba, Jul. 13–15, 2026</p>
+</div>
+
+<div class="publication">
+<h3>The properties of the collective mass in the pairing collective mode</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">5th Conference on Advances in Radioactive Isotope Science (ARIS2026), Palthe Iizaka, Fukushima, Jun. 1–7, 2026</p>
+</div>
+
+<div class="publication">
+<h3>Dependence of pair collective mass on pairing collective variables using BCS+QRPA calculations</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara</p>
+<p class="pub-journal">XIIIth International Symposium on Nuclear Symmetry Energy (NuSym25), RIKEN, Kobe, Sep. 8–13, 2025</p>
+</div>
+
+<div class="publication">
+<h3>The pair collective mode caused by the neutron pairing interaction in stable nuclei</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">Single-particle and collective motions from nuclear many-body correlation (PCM2025), Aizu, Mar. 4–7, 2025</p>
+</div>
+
+<div class="publication">
+<h3>The rotational mode caused by the pair condensation in nuclei</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">Recent Progress in Many-Body Theories (RPMBT22), Tsukuba, Sep. 23–27, 2024</p>
+</div>
+
+<div class="publication">
+<h3>Neutron pairing rotational moments of inertia in Ni, Sn, and Pb isotopes</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">The workshop on frontier nuclear studies with gamma-ray spectrometer arrays (GAMMA24), Minoh, Mar. 26–28, 2024</p>
+<p><span class="badge bg-warning text-dark">Jury Prize</span></p>
+</div>
+
+<div class="publication">
+<h3>Moments of inertia of paring rotation calculated with BCS model for the pairing Hamiltonian</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">International Symposium on Nuclear Spectroscopy for Extreme Quantum Systems (NUSPEQ2023), Numazu, Shizuoka, Mar. 7–9, 2023</p>
+</div>
+
+<h2>Domestic Conferences and Workshops (Oral)</h2>
+
+<div class="publication">
+<h3>Microscopic description of large-amplitude pairing collective motion near magic nuclei</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">JPS 81st Annual Meeting, University of Tokyo Komaba Campus, Tokyo, Sep. 14–17, 2026</p>
+</div>
+
+<div class="publication">
+<h3>Analysis of the critical-point picture of the pairing phase transition in nuclei using CBCS + LQRPA calculations</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">JPS Spring Meeting 2026, Online, Mar. 23–26, 2026</p>
+</div>
+
+<div class="publication">
+<h3>Construction of the pairing collective Hamiltonian using the dynamical collective mass</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">Grant-in-Aid for Transformative Research Areas (A) Workshop, Bandai-Atami, Mar. 2–4, 2026</p>
+</div>
+
+<div class="publication">
+<h3>Analysis of the dependence of the pairing collective mass on pairing collective variables arising from 1S0 neutron superfluidity</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">JPS 80th Annual Meeting, Hiroshima, Sep. 16–19, 2025</p>
+</div>
+
+<div class="publication">
+<h3>Collective-variable dependence of the pairing collective mass arising from neutron 1S0 superfluidity using constrained BCS + QRPA calculations</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">UKAKUREN Workshop 2025, KEK Tsukuba Campus, Mar. 24–26, 2025</p>
+</div>
+
+<div class="publication">
+<h3>Dependence of the collective mass on pairing collective variables in neutron pairing collective motion</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">JPS Spring Meeting 2025, Online, Mar. 18–21, 2025</p>
+</div>
+
+<div class="publication">
+<h3>Study of the pairing rotational mode arising from neutron superfluidity</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara, T. Nakatsukasa</p>
+<p class="pub-journal">JPS 79th Annual Meeting, Sapporo, Sep. 16–19, 2024</p>
+<p><span class="badge bg-warning text-dark">Student Excellent Presentation Award</span></p>
+</div>
+
+<div class="publication">
+<h3>Qualitative discussion of the pairing rotational mode arising from nuclear superfluidity</h3>
+<p class="pub-authors">C. Ruike</p>
+<p class="pub-journal">Pair Correlations and Pair Condensed Phases in Nucleon and Electron Systems, Osaka University, Osaka, Sep. 9–11, 2024</p>
+</div>
+
+<div class="publication">
+<h3>Nucleon-pair dynamics associated with neutron pair condensation in nuclei</h3>
+<p class="pub-authors">C. Ruike</p>
+<p class="pub-journal">Summer School for Young Researchers in Nuclear Physics, National Olympics Memorial Youth Center, Tokyo, Aug. 21–25, 2024</p>
+</div>
+
+<div class="publication">
+<h3>Neutron pairing correlations studied through analysis of pairing rotational moments of inertia</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara</p>
+<p class="pub-journal">JPS Spring Meeting 2024, Online, Mar. 18–21, 2024</p>
+</div>
+
+<div class="publication">
+<h3>Neutron pairing rotation within the BCS model (Invited)</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara</p>
+<p class="pub-journal">Microscopic approach from pair correlation to pair condensation, RCNP, Osaka, Sep. 4–6, 2023</p>
+</div>
+
+<div class="publication">
+<h3>Study of the moment of inertia associated with nuclear pairing rotation using BCS theory</h3>
+<p class="pub-authors">C. Ruike</p>
+<p class="pub-journal">Summer School for Young Researchers in Nuclear Physics, National Olympics Memorial Youth Center, Tokyo, Aug. 17–21, 2023</p>
+</div>
+
+<h2>Domestic Conferences (Poster)</h2>
+
+<div class="publication">
+<h3>Analysis of the nuclear superfluid phase transition through pairing collective motion</h3>
+<p class="pub-authors">C. Ruike, N. Hinohara</p>
+<p class="pub-journal">Spring School on Computational Physics 2025, Okinawa Jichikaikan, Naha, Mar. 9–13, 2026</p>
+</div>
+
+<div class="publication">
+<h3>Analysis of the pairing rotational moment of inertia arising from nuclear superfluidity</h3>
+<p class="pub-authors">C. Ruike</p>
+<p class="pub-journal">Spring School on Computational Physics 2024, Okinawa Jichikaikan, Naha, Mar. 11–15, 2024</p>
+</div>
+
 </div>
 </div>
 </div> 
