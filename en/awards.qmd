@@ -12,7 +12,15 @@ page-layout: full
 
 <div class="row">
 <div class="col-md-12">
-<h2 class="mt-4">Honors and Awards</h2>
+<h2 class="mt-4">Fellowships</h2>
+
+<div class="publication">
+<h3>April 2026–present: JSPS Research Fellowship for Young Scientists (DC2)</h3>
+<p>Japan Society for the Promotion of Science</p>
+<p>Research project: Elucidation of superfluid collective dynamics in atomic nuclei</p>
+</div>
+
+<h2>Honors and Awards</h2>
 
 <div class="publication">
 <h3>March 2025: Provost Award of Graduate School of Science and Technology</h3>
