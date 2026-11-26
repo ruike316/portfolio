@@ -33,6 +33,12 @@ page-layout: full
 <li>Fall 2023: Teaching Assistant, Computational Physics II (second-year undergraduates; answering questions)</li>
 </ul>
 
+<h2>Outreach</h2>
+<ul>
+<li>AY2025: Judge, Kagaku-no-Me (Science Buds) Award, University of Tsukuba (junior high and high school division, physics)</li>
+<li>AY2023: Judge, Kagaku-no-Me (Science Buds) Award, University of Tsukuba (junior high and high school division, physics)</li>
+</ul>
+
 <h2>Research Field</h2>
 <p>
 I conduct theoretical research in low-energy nuclear physics.
