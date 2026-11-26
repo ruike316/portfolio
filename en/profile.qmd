@@ -25,6 +25,14 @@ page-layout: full
 <li>March 2025: Master of Science, Physics Degree Program, Graduate School of Science and Technology, University of Tsukuba</li>
 </ul>
 
+<h2>Teaching and Research Assistant Experience</h2>
+<ul>
+<li>Fall 2025: Teaching Assistant, Quantum Mechanics III (third-year undergraduates; grading exercises)</li>
+<li>AY2024: Research Assistant</li>
+<li>AY2024 (full year): Teaching Assistant, Exploratory Research Seminar (students of all years; answering questions)</li>
+<li>Fall 2023: Teaching Assistant, Computational Physics II (second-year undergraduates; answering questions)</li>
+</ul>
+
 <h2>Research Field</h2>
 <p>
 I conduct theoretical research in low-energy nuclear physics.
